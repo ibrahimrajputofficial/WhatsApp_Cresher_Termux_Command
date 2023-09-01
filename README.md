@@ -1,5 +1,3 @@
-![PicsArt_05-26-10 36 25]()
-
 
 # WA_CRASHER
 WhatsApp Crash With one  Message
@@ -13,7 +11,7 @@ WhatsApp Crash With one  Message
 Note : Tool is Made of Educational Purposes only.
        Please try not to harm anyone device 
        it's For Fun Purpose Not For Revenge
-       (Join Us All https://bit.ly/3PV3S3r)
+       (Contact Us All [https://bit.ly/3PV3S3r](https://wa.link/swjab5))
        
 ```
 ```bash
