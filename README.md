@@ -1,4 +1,4 @@
-![PicsArt_05-26-10 36 25](https://user-images.githubusercontent.com/70594016/170420481-a4f3f65c-7ce5-4cb7-82a5-c6dd26bb3b6a.jpg)
+![PicsArt_05-26-10 36 25]()
 
 
 # WA_CRASHER
@@ -26,7 +26,7 @@ pkg install python git -y
 pip install colorama
 ```
 ```bash
-git clone https://github.com/XPH4N70M/WA_CRASHER
+git clone [(https://github.com/ibrahimrajputofficial/WhatsApp_Cresher_Termux_Command)
 ```
 ```bash
 cd WA_CRASHER
