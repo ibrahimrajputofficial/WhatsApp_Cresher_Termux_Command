@@ -24,8 +24,8 @@ pkg install python git -y
 pip install colorama
 ```
 ```bash
-git clone [(https://github.com/ibrahimrajputofficial/WhatsApp_Cresher_Termux_Command)
-```
+git clone https://github.com/ibrahimrajputofficial/WhatsApp_Cresher_Termux_Command/blob/main/WA_CRASHER.py
+
 ```bash
 cd WA_CRASHER
 ```
